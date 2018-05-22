@@ -1,9 +1,18 @@
+<<<<<<< HEAD
 /* Basis styles */
 
 html {
     color: #222;
     font-size: 1em;
     line-height: 1.4;}
+=======
+html {
+    color: #222;
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+>>>>>>> origin/master
 body {
     max-width: 1200px;
     margin: 0 auto;
@@ -16,4 +25,7 @@ body {
 img {
     width: 50%;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
